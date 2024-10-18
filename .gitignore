@@ -1,0 +1,12 @@
+schema.txt
+node_modules
+./node_modules
+.env
+./.env
+*.lock
+.DS_Store
+deploy.sh
+./deploy.sh
+Dockerfile
+xquery.sql
+src/public/*
